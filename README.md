@@ -1,6 +1,8 @@
 # ParsingTasks
 Parsing a language for describing tasks
 
+[README em português](README.pt-br.md)
+
 This is a simple project I made to learn a bit about parsing and parser combinators. The parsed language looks like the following:
 ```
 Organize the backpack {
